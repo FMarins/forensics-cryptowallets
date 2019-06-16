@@ -1,4 +1,4 @@
-import time
+
 
 no = str(input('Digite o nome do arquivo: '))
 aq = open('{}.txt'.format(no),'r')
